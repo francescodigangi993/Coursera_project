@@ -1,4 +1,4 @@
---Questa query mi dice quante stazioni hanno id diversi 
+--This query shows the number of different id_number for each station
 with t2 as 
 (WITH t1 AS (SELECT count(distinct start_station_id) as n_id,
 		start_station_name
@@ -14,4 +14,5 @@ SELECT count(start_station_name) as st_num,
 		n_id
 		from t2
 		GROUP BY n_id
+
 		
