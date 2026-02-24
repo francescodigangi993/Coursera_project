@@ -13,3 +13,4 @@ SELECT
 FROM annual_rides_3
 
 GROUP BY 1, 2, 3, 4, 5;
+
