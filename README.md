@@ -1,12 +1,20 @@
-# Coursera project
-My first work, the case study from Coursera "Google Data Analytics". In this scenario i'm an analyst working for Cyclistics a rent bike company. My objective is analyze the data of the rides of the last year for find the difference in use between member and casual users. 
+# **Cylistic Case Study: Google Data Analytics**
+This is my first data analysis project, completed as part of the Google Data Analytics Professional Certificate.
 
-For this project I use:
+## **Scenario**
 
-SQL: for cleaning and elaborate data.
+I am an analyst working for Cyclistic, a bike-share company. My objective is to analyze ride data from the past year to identify key differences in usage patterns between annual members and casual riders. The goal is to provide data-driven insights to support a marketing strategy aimed at converting casual users into long-term members.
 
-You can find all the queries i used in [sql_queries](./sql_queries) and the data before and after cleaning in [data](./data)
+## **Tools Used**
 
-Tableau: for create the report
+- **SQL**: Used for data cleaning, transformation, and aggregation. You can find all my scripts in the sql_queries folder.
 
-[report(PNG)](./dashboard) for the image or [report(pdf)](./Cyclistics_an users overview)
+- **Tableau**: Used for data visualization and building the final report.
+
+## **Project Deliverables**
+
+- **Raw & Cleaned Data**: Available in the [data](./data) folder.
+
+- **Final Report (PDF)**: [Final report](./Cyclistics_an_users_overview.pdf)
+
+- **Dashboard Screenshots**: Avaible in the [dashboard](./dashboard)
